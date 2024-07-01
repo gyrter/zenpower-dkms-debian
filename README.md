@@ -2,6 +2,8 @@
 
 This is a Debian DKMS package version of the latest code of [Zenpower3 module for AMD CPU](https://git.exozy.me/a/zenpower3)
 
+This repo was inspired by [e1000e-dkms](https://github.com/koljah-de/e1000e-dkms-debian)
+
 ---
 
 ## Prerequisites
