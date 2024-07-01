@@ -49,3 +49,10 @@ To remove the DKMS kernel module only (works with all Linux distributions) run:
 ```
 dkms remove -m zenpower -v <x.x.x> --all
 ```
+
+## Changelog
+
+**Changelog for 0.2.1**
+
+* Clone master from upstream
+* Patch dkms.conf
