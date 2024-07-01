@@ -1,0 +1,6 @@
+2681583b1118369cdb1506d2dc088ebf  usr/src/zenpower-0.2.1/dkms.conf
+b234ee4d69f5fce4486a80fdaf4a4263  usr/src/zenpower-0.2.1/LICENSE
+3e87c5abf5dced8641e3b6f65c0ab979  usr/src/zenpower-0.2.1/Makefile
+569407d7b00f30a70ffff3764726d305  usr/src/zenpower-0.2.1/README.md
+5fbe9ed9fe5236379021aef2b6a18930  usr/src/zenpower-0.2.1/zenpower.c
+939129bbaa8924d2859613fa4b0557ba  usr/src/zenpower-0.2.1/zp_read_debug.sh
