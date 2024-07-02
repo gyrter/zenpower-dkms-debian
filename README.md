@@ -61,7 +61,7 @@ Because zenpower is using same PCI device as k10temp, you have to disable k10tem
 3. (optional*) blacklist k10temp: `sudo bash -c 'sudo echo -e "\n# replaced with zenpower\nblacklist k10temp" >> /etc/modprobe.d/blacklist.conf'`
 4. Activate zenpower `sudo modprobe zenpower`
 
-*If k10temp is not blacklisted, you may have to manually unload k10temp after each restart.*
+**If k10temp is not blacklisted, you may have to manually unload k10temp after each restart.**
 
 ---
 
